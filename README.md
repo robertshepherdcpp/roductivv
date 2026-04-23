@@ -24,6 +24,11 @@ my third project for fallout
 - the case was made in Fusion360, a simple case with a revolved base so easier to use and less likely to fall over.
 - then the axles and wheels where also made in fusion
 
+**about the firmware**
+- done using c++
+- to keep track of time (for the timer and also for making sure its only one scroll/3 games a day) i used WiFi so that has to be enabled, that needs to be setup with your own network (ssid and the password)
+- then data is stored (e.g. scrolls today, games each day), so we can store the last date scrolled and if it was >= 1 day then we reset the scroll count so u can scroll again. the same is done with gaming.
+
 **screenshots of the project**
 the 3d design:
 <img width="1134" height="739" alt="image" src="https://github.com/user-attachments/assets/9a39faaf-869c-4e03-84c9-009638c686b7" />
