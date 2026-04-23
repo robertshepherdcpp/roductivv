@@ -1,6 +1,17 @@
 # roductivv
 my third project for fallout
 
+**what is this project**
+- this project is a tool used to help people become productive (roductivv)!
+- where is gamifies doing tasks like coding, studying and then punishes activities like gaming and stuyding!
+- the different activities are personalized towards me, you can always treat them to be different activities
+- it gamifies these tasks through a points based system, where when doing activities like coding you get points, and when doing gaming/scrolling you loose points
+- then through gaining points you get to different milstones (like 100/250/500/10000) etc..
+- this is all done through a moveable (case on wheels) that sits on your desk and plays different tunes
+- the points work like: you add 10 minutes to every task (you can add more by clicking the button more than once) and points are given/taken per 10 minutes.
+- studying and coding are uncapped! whilst gaming is capped at 30 minutes a day, and scrolling is capped at 10 minutes a day!
+- this project aims to reduce procrastination and boost productivity!!!
+
 **Inspiration/Motivation for building this project**
 - i always find myself procrastinating when doing tasks, i know there are apps to do this, but then my phone becomes the distraction and i immediately go onto reels
 - so i thought it would be good if i had a physical thing on my desk that could keep me focus
@@ -11,17 +22,20 @@ my third project for fallout
 - pcb was designed in Kicad with components needed usually imported from the lcsc website via an EasyEDA converter tool
 - i.e. both schematic and wiring done here in kicad
 - the case was made in Fusion360, a simple case with a revolved base so easier to use and less likely to fall over.
+- then the axles and wheels where also made in fusion
 
 **screenshots of the project**
 the 3d design:
-<img width="1160" height="696" alt="image" src="https://github.com/user-attachments/assets/1082cc4b-84af-4764-9749-8b26d07ad49a" />
+<img width="1134" height="739" alt="image" src="https://github.com/user-attachments/assets/9a39faaf-869c-4e03-84c9-009638c686b7" />
+<img width="1107" height="585" alt="image" src="https://github.com/user-attachments/assets/7273f820-94bb-42bb-8d45-35660eb26e5a" />
+here are the wheels that get added into the design:(so it can roll about on the desk)
+<img width="1341" height="859" alt="image" src="https://github.com/user-attachments/assets/36864739-f058-49b7-84d1-d97e80d7f807" />
+
 the schematic:
-<img width="1166" height="848" alt="image" src="https://github.com/user-attachments/assets/854e2393-b9e5-429e-840d-d9ffe2ad05b7" />
+<img width="1117" height="925" alt="image" src="https://github.com/user-attachments/assets/0d2eabc2-5a81-42c4-99eb-decba9bff97c" />
+
 the footprint:
-<img width="1165" height="563" alt="image" src="https://github.com/user-attachments/assets/e46262c0-0f9a-40b5-ba2c-674fc5bbf756" />
+<img width="948" height="434" alt="image" src="https://github.com/user-attachments/assets/5f381e5a-d4b3-458c-a3ae-49cd32654ede" />
+
 the exploded view:
-<img width="807" height="751" alt="image" src="https://github.com/user-attachments/assets/6fb83a4f-ab1c-4323-ac50-6f3e79ba1b8c" />
-
-
-
-
+<img width="803" height="785" alt="image" src="https://github.com/user-attachments/assets/83836775-876b-4ff5-b7ba-0cbf4639f249" />
