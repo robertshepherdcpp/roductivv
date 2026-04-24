@@ -24,6 +24,16 @@ my third project for fallout
 - the case was made in Fusion360, a simple case with a revolved base so easier to use and less likely to fall over.
 - then the axles and wheels where also made in fusion
 
+**how to use**
+- first get all the pcb and CAD stuff printed (2 sets of axes and wheels need to be printed)
+- then put the axle through the hole made in the case and attach the wheels
+- do the same for the other hole
+- then insert the case
+- screw the lid on (using the bolts as shown in the bom)
+- then before flashing to the esp, you need to change the SSID and password in the .ino file to be your own, so that the esp can tell the time (synced with wifi)
+- then flash (easiest with the arduino ide), and keeped plugged in and then run!
+- there are no batteries, so the connected with the esp must be kept.
+
 **about the firmware**
 - done using c++
 - to keep track of time (for the timer and also for making sure its only one scroll/3 games a day) i used WiFi so that has to be enabled, that needs to be setup with your own network (ssid and the password)
