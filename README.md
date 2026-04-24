@@ -45,5 +45,5 @@ the footprint:
 the exploded view:
 <img width="803" height="785" alt="image" src="https://github.com/user-attachments/assets/83836775-876b-4ff5-b7ba-0cbf4639f249" />
 
-- Total cost of this project: $42.00. Which was more expensive than i was expecting, the cost mainly comes from the ADAFRUIT MCP23017 (costing $11.66)
+- Total cost of this project: $36.29. Which was more expensive than i was expecting.
 - All the costs can be seen in the BOM.csv (in this repository)
