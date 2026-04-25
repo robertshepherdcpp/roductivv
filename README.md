@@ -58,5 +58,5 @@ the exploded view:
 Zine (pdf can also be found in this repository):
 <img width="392" height="586" alt="image" src="https://github.com/user-attachments/assets/96fef559-6f77-48c3-9940-2a8169087ade" />
 
-- Total cost of this project: $37.78. Which was more expensive than i was expecting.
+- Total cost of this project: $40.20. Which was more expensive than i was expecting.
 - All the costs can be seen in the BOM.csv (in this repository)
