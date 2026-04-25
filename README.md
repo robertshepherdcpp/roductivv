@@ -55,5 +55,8 @@ the footprint:
 the exploded view:
 <img width="803" height="785" alt="image" src="https://github.com/user-attachments/assets/83836775-876b-4ff5-b7ba-0cbf4639f249" />
 
+Zine (pdf can also be found in this repository):
+<img width="392" height="586" alt="image" src="https://github.com/user-attachments/assets/96fef559-6f77-48c3-9940-2a8169087ade" />
+
 - Total cost of this project: $37.78. Which was more expensive than i was expecting.
 - All the costs can be seen in the BOM.csv (in this repository)
