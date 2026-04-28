@@ -25,10 +25,8 @@ my third project for fallout
 - then the axles and wheels where also made in fusion
 
 **how to use**
-- first get all the pcb and CAD stuff printed (2 sets of axes and wheels need to be printed)
-- then put the axle through the hole made in the case and attach the wheels
-- do the same for the other hole
-- then insert the case
+- first get all the pcb and CAD stuff printed
+- then insert the pcb into the case
 - screw the lid on (using the bolts as shown in the bom)
 - then before flashing to the esp, you need to change the SSID and password in the .ino file to be your own, so that the esp can tell the time (synced with wifi)
 - then flash (easiest with the arduino ide), and keeped plugged in and then run!
