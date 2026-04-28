@@ -7,7 +7,7 @@ my third project for fallout
 - the different activities are personalized towards me, you can always treat them to be different activities
 - it gamifies these tasks through a points based system, where when doing activities like coding you get points, and when doing gaming/scrolling you loose points
 - then through gaining points you get to different milstones (like 100/250/500/10000) etc..
-- this is all done through a moveable (case on wheels) that sits on your desk and plays different tunes
+- this is all done through a case that sits on your desk and plays different tunes
 - the points work like: you add 10 minutes to every task (you can add more by clicking the button more than once) and points are given/taken per 10 minutes.
 - studying and coding are uncapped! whilst gaming is capped at 30 minutes a day, and scrolling is capped at 10 minutes a day!
 - this project aims to reduce procrastination and boost productivity!!!
@@ -22,7 +22,6 @@ my third project for fallout
 - pcb was designed in Kicad with components needed usually imported from the lcsc website via an EasyEDA converter tool
 - i.e. both schematic and wiring done here in kicad
 - the case was made in Fusion360, a simple case with a revolved base so easier to use and less likely to fall over.
-- then the axles and wheels where also made in fusion
 
 **how to use**
 - first get all the pcb and CAD stuff printed
