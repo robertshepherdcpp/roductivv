@@ -43,8 +43,6 @@ my third project for fallout
 the 3d design:
 <img width="1134" height="739" alt="image" src="https://github.com/user-attachments/assets/9a39faaf-869c-4e03-84c9-009638c686b7" />
 <img width="1107" height="585" alt="image" src="https://github.com/user-attachments/assets/7273f820-94bb-42bb-8d45-35660eb26e5a" />
-here are the wheels that get added into the design:(so it can roll about on the desk)
-<img width="1341" height="859" alt="image" src="https://github.com/user-attachments/assets/36864739-f058-49b7-84d1-d97e80d7f807" />
 
 the schematic:
 <img width="1117" height="925" alt="image" src="https://github.com/user-attachments/assets/0d2eabc2-5a81-42c4-99eb-decba9bff97c" />
@@ -60,3 +58,7 @@ Zine (pdf can also be found in this repository):
 
 - Total cost of this project: $40.20. Which was more expensive than i was expecting.
 - All the costs can be seen in the BOM.csv (in this repository)
+
+**design considerations**
+- i originally wanted to add some wheels, which i 3d printed, however i decided eventually against that, as it will be plugged in via a usb cable anyway.
+- however i decided to leave in the holes for the possibility of the user adding their own wheels if they wanted.
