@@ -59,3 +59,5 @@ Zine (pdf can also be found in this repository):
 **design considerations**
 - i originally wanted to add some wheels, which i 3d printed, however i decided eventually against that, as it will be plugged in via a usb cable anyway.
 - however i decided to leave in the holes for the possibility of the user adding their own wheels if they wanted.
+
+the whole building process was documented on my youtube channel [here](https://www.youtube.com/@robertshepherdcpp)
