@@ -1,26 +1,23 @@
 # roductivv
-my third project for fallout
+
+**a project to help you regain your time and gain focus!**
 
 <img width="392" height="586" alt="image" src="https://github.com/user-attachments/assets/96fef559-6f77-48c3-9940-2a8169087ade" />
 
-**what is this project**
-- this project is a tool used to help people become productive (roductivv)!
-- where is gamifies doing tasks like coding, studying and then punishes activities like gaming and stuyding!
-- the different activities are personalized towards me, you can always treat them to be different activities
-- it gamifies these tasks through a points based system, where when doing activities like coding you get points, and when doing gaming/scrolling you loose points
-- then through gaining points you get to different milstones (like 100/250/500/10000) etc..
-- this is all done through a case that sits on your desk and plays different tunes based on your different milestones!
-- the points work like: you add 10 minutes to every task (you can add more by clicking the button more than once) and points are given/taken per 10 minutes.
-- studying and coding are uncapped! whilst gaming is capped at 30 minutes a day, and scrolling is capped at 10 minutes a day!
-
 **Inspiration/Motivation for building this project**
-- i always find myself procrastinating when doing tasks, i know there are apps to do this, but then my phone becomes the distraction and i immediately go onto reels
-- so i thought it would be good if i had a physical thing on my desk that could keep me focus.
+- i always find myself procrastinating when doing tasks, i know there are apps to do this, but then my phone becomes the distraction and I immediately go onto reels
+- so i thought it would be good if i something physical that kept me focused.
+
+**what is this project**
+- this project is a tool used to help people become *productive*!
+- Gamifies doing tasks like *coding*, *studying* and then punishes activities like *gaming* and *scrolling*!
+- This is done via a points based system, where certain activities can earn/loose points.
+- Gaining points gets you to different milstones (like 100/250/500/10000) etc..
 
 **how to use**
-- first get all the pcb and CAD stuff printed
+- first get the pcb and case printed
 - then insert the pcb into the case
-- screw the lid on (using the bolts as shown in the bom)
+- screw the lid on (using the bolts as shown in the BOM)
 - then before flashing to the esp, you need to change the SSID and password in the .ino file to be your own, so that the esp can tell the time (synced with wifi)
 - then flash (easiest with the arduino ide), and keeped plugged in and then run!
 - there are no batteries, so the connection with the esp must be kept.
