@@ -37,6 +37,6 @@ the exploded view:
 <img width="803" height="785" alt="image" src="https://github.com/user-attachments/assets/83836775-876b-4ff5-b7ba-0cbf4639f249" />
 
 **BOM**
-- Total cost of this project: $40.20. Which was more expensive than i was expecting.
+- Total cost of this project: $45.36. Which was more expensive than i was expecting.
 - All the costs can be seen in the BOM.csv (in this repository)
 <img width="1281" height="619" alt="image" src="https://github.com/user-attachments/assets/3884ad12-3421-4c36-b0f4-581648bc4803" />
