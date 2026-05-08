@@ -17,6 +17,7 @@
 **how to use**
 - first get the pcb and case printed
 - then insert the pcb into the case
+- add the cherry keys and keycaps
 - screw the lid on (using the bolts as shown in the BOM)
 - then before flashing to the esp, you need to change the SSID and password in the .ino file to be your own, so that the esp can tell the time (synced with wifi)
 - then flash (easiest with the arduino ide), and keeped plugged in and then run!
