@@ -25,8 +25,10 @@
 
 **screenshots of the project**
 the 3d design:
-<img width="1134" height="739" alt="image" src="https://github.com/user-attachments/assets/9a39faaf-869c-4e03-84c9-009638c686b7" />
-<img width="1107" height="585" alt="image" src="https://github.com/user-attachments/assets/7273f820-94bb-42bb-8d45-35660eb26e5a" />
+<img width="819" height="574" alt="image" src="https://github.com/user-attachments/assets/9e9d3c4c-48d8-4735-819a-e3232bcdcc53" />
+<img width="637" height="650" alt="image" src="https://github.com/user-attachments/assets/83a4ffc6-fc80-4683-9ddc-ef11ac022dd6" />
+
+
 
 the schematic:
 <img width="1117" height="925" alt="image" src="https://github.com/user-attachments/assets/0d2eabc2-5a81-42c4-99eb-decba9bff97c" />
