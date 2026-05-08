@@ -2,7 +2,8 @@
 
 **a project to help you regain your time and gain focus!**
 
-<img width="574" height="815" alt="image" src="https://github.com/user-attachments/assets/1347ca0d-fa95-467e-81bd-a20871d67b23" />
+<img width="583" height="821" alt="image" src="https://github.com/user-attachments/assets/527f9ede-97b4-4a09-9668-b3a8704d406d" />
+
 
 
 **Inspiration/Motivation for building this project**
