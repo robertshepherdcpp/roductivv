@@ -2,7 +2,8 @@
 
 **a project to help you regain your time and gain focus!**
 
-<img width="392" height="586" alt="image" src="https://github.com/user-attachments/assets/96fef559-6f77-48c3-9940-2a8169087ade" />
+<img width="574" height="815" alt="image" src="https://github.com/user-attachments/assets/1347ca0d-fa95-467e-81bd-a20871d67b23" />
+
 
 **Inspiration/Motivation for building this project**
 - i always find myself procrastinating when doing tasks, i know there are apps to do this, but then my phone becomes the distraction and I immediately go onto reels
