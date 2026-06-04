@@ -25,6 +25,7 @@
 - then before flashing to the esp, you need to change the SSID and password in the .ino file to be your own, so that the esp can tell the time (synced with wifi)
 - then flash (easiest with the arduino ide), and keeped plugged in and then run!
 - there are no batteries, so the connection with the esp must be kept.
+- the additional bits on the lid that go down are so that the pcb is fixed in place and doesnt move around
 
 **screenshots of the project**
 the 3d design:
