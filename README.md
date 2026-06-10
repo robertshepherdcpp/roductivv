@@ -29,18 +29,23 @@
 
 **screenshots of the project**
 the 3d design:
+
 <img width="819" height="574" alt="image" src="https://github.com/user-attachments/assets/9e9d3c4c-48d8-4735-819a-e3232bcdcc53" />
 <img width="637" height="650" alt="image" src="https://github.com/user-attachments/assets/83a4ffc6-fc80-4683-9ddc-ef11ac022dd6" />
 
 
 
 the schematic:
+
 <img width="1117" height="925" alt="image" src="https://github.com/user-attachments/assets/0d2eabc2-5a81-42c4-99eb-decba9bff97c" />
 
 the footprint:
-<img width="948" height="434" alt="image" src="https://github.com/user-attachments/assets/5f381e5a-d4b3-458c-a3ae-49cd32654ede" />
+
+<img width="807" height="428" alt="image" src="https://github.com/user-attachments/assets/24e09a41-2ed1-444f-9417-bbb89294ca27" />
+
 
 the exploded view:
+
 <img width="803" height="785" alt="image" src="https://github.com/user-attachments/assets/83836775-876b-4ff5-b7ba-0cbf4639f249" />
 
 **BOM**
