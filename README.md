@@ -2,7 +2,8 @@
 
 **a project to help you regain your time and gain focus!**
 
-<img width="515" height="750" alt="image" src="https://github.com/user-attachments/assets/d41150d8-a7ca-46db-9d13-824d800d9082" />
+<img width="419" height="601" alt="image" src="https://github.com/user-attachments/assets/159877c3-3af8-4e51-b335-b54845fbc7f6" />
+
 
 
 
@@ -30,10 +31,7 @@
 **screenshots of the project**
 the 3d design:
 
-<img width="819" height="574" alt="image" src="https://github.com/user-attachments/assets/9e9d3c4c-48d8-4735-819a-e3232bcdcc53" />
-<img width="637" height="650" alt="image" src="https://github.com/user-attachments/assets/83a4ffc6-fc80-4683-9ddc-ef11ac022dd6" />
-
-
+<img width="532" height="543" alt="image" src="https://github.com/user-attachments/assets/322391b9-b6a2-41a0-8f64-5ed3358d3f52" />
 
 the schematic:
 
@@ -44,12 +42,10 @@ the footprint:
 <img width="807" height="428" alt="image" src="https://github.com/user-attachments/assets/24e09a41-2ed1-444f-9417-bbb89294ca27" />
 
 
-the exploded view:
-
-<img width="803" height="785" alt="image" src="https://github.com/user-attachments/assets/83836775-876b-4ff5-b7ba-0cbf4639f249" />
-
 **BOM**
-- Total cost of this project: $45.36. Which was more expensive than i was expecting.
+- Total cost of this project: $41.12.
 - All the costs can be seen in the BOM.csv (in this repository)
-<img width="1000" height="655" alt="image" src="https://github.com/user-attachments/assets/f45d8e73-0da1-400a-9689-333d140e2d3e" />
+
+<img width="1461" height="709" alt="image" src="https://github.com/user-attachments/assets/92405412-551f-4cba-8446-7549eb7efcef" />
+
 
